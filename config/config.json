@@ -20,4 +20,5 @@
     "host": "sql6.freesqldatabase.com",
     "dialect": "mysql"
   }
+  
 }
