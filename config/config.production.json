@@ -1,0 +1,10 @@
+{
+    "development": {
+        "username": "sql6585020",
+        "password": "bn89KUlLpI",
+        "database": "sql6585020",
+        "host": "sql6.freesqldatabase.com",
+        "dialect": "mysql"
+      }
+}
+
