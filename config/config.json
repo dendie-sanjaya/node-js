@@ -1,23 +1,23 @@
 { 
   "development": {
-    "username": "root",
-    "password": null,
-    "database": "pr_praisindo",
-    "host": "127.0.0.1",
+    "username": "sql6591001",
+    "password": "eKdU6E1hxT",
+    "database": "sql6591001",
+    "host": "sql6.freesqldatabase.com",
     "dialect": "mysql"
   },
   "test": {
-    "username": "root",
-    "password": null,
-    "database": "pr_praisindo",
-    "host": "127.0.0.1",
+    "username": "sql6591001",
+    "password": "eKdU6E1hxT",
+    "database": "sql6591001",
+    "host": "sql6.freesqldatabase.com",
     "dialect": "mysql"
   },
   "production": {
-    "username": "root",
-    "password": null,
-    "database": "pr_praisindo",
-    "host": "127.0.0.1",
+    "username": "sql6591001",
+    "password": "eKdU6E1hxT",
+    "database": "sql6591001",
+    "host": "sql6.freesqldatabase.com",
     "dialect": "mysql"
   }
 }
